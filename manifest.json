@@ -4,6 +4,6 @@
     "website_url": "",
     "description": "Adds more videos to the television.",
     "dependencies": [
-        "Rattenbonkers-TVLoader-1.0.3"
+        "Rattenbonkers-TVLoader-1.1.0"
     ]
 }
